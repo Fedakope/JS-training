@@ -53,3 +53,6 @@ document.querySelector("#search-country")
     searchCountry(keyword2)
 })
 
+// le fetch en lui-meme
+
+
